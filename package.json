@@ -1,0 +1,25 @@
+{
+  "name": "coursera-nodejs",
+  "version": "1.0.0",
+  "description": "Server-side Development with NodeJS, Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andsholinka/coursera-nodejs.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "respecker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andsholinka/coursera-nodejs/issues"
+  },
+  "homepage": "https://github.com/andsholinka/coursera-nodejs#readme"
+}
